@@ -18,6 +18,10 @@ p {
 	color: #555;
 }
 
+img {
+	height: 90vh;	
+}
+
 li {
 	font-size: 16px;
 }
