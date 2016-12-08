@@ -19,7 +19,7 @@ p {
 }
 
 img {
-	//height: 80vh;	
+	max-height: 80vh;	
 }
 
 li {
@@ -31,7 +31,8 @@ a {
 	color: #241;
 }
 
-.intro {
+div.intro {
+	position: relative;
 	height: 100vh;
 	text-align: center;
 }
